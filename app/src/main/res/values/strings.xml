@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Estudar</string>
+    <string name="Selecione">Selecione o principal:</string>
+    <string name="Picanha">Picanha</string>
+    <string name="carneMoida">Carne moída</string>
+    <string name="File">Filé de frango</string>
+    <string name="Calcular">calcular</string>
+    <string name="Selecione1">Selecione o principal:</string>
+    <string name="Selecione2">Selecione o acompanhamento:</string>
+    <string name="arroz">Arroz</string>
+    <string name="feijao">Feijão</string>
+    <string name="batata">Batata frita</string>
+    <string name="legume">Legumes</string>
+    <string name="pure">Purê</string>
+</resources>
